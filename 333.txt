@@ -1,1 +1,2 @@
-fbbdfb
+function Trol()
+{a,b,c}
