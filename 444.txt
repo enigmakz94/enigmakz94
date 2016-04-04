@@ -1,2 +1,4 @@
 function STH()
+{a,a,a,a,a}
+function STH2()
 {a,b,c,d}
